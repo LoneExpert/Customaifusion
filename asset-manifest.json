@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/customaifusion/static/css/main.24baff18.css",
+    "main.js": "/customaifusion/static/js/main.7eb84777.js",
+    "static/js/453.258b012d.chunk.js": "/customaifusion/static/js/453.258b012d.chunk.js",
+    "index.html": "/customaifusion/index.html",
+    "main.24baff18.css.map": "/customaifusion/static/css/main.24baff18.css.map",
+    "main.7eb84777.js.map": "/customaifusion/static/js/main.7eb84777.js.map",
+    "453.258b012d.chunk.js.map": "/customaifusion/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24baff18.css",
+    "static/js/main.7eb84777.js"
+  ]
+}
