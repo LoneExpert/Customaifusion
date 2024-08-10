@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/customaifusion/static/css/main.24baff18.css",
-    "main.js": "/customaifusion/static/js/main.7eb84777.js",
-    "static/js/453.258b012d.chunk.js": "/customaifusion/static/js/453.258b012d.chunk.js",
-    "index.html": "/customaifusion/index.html",
-    "main.24baff18.css.map": "/customaifusion/static/css/main.24baff18.css.map",
-    "main.7eb84777.js.map": "/customaifusion/static/js/main.7eb84777.js.map",
-    "453.258b012d.chunk.js.map": "/customaifusion/static/js/453.258b012d.chunk.js.map"
+    "main.css": "/Customaifusion/static/css/main.24baff18.css",
+    "main.js": "/Customaifusion/static/js/main.36c9f431.js",
+    "static/js/453.258b012d.chunk.js": "/Customaifusion/static/js/453.258b012d.chunk.js",
+    "index.html": "/Customaifusion/index.html",
+    "main.24baff18.css.map": "/Customaifusion/static/css/main.24baff18.css.map",
+    "main.36c9f431.js.map": "/Customaifusion/static/js/main.36c9f431.js.map",
+    "453.258b012d.chunk.js.map": "/Customaifusion/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24baff18.css",
-    "static/js/main.7eb84777.js"
+    "static/js/main.36c9f431.js"
   ]
 }
