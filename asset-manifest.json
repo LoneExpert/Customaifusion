@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Customaifusion/static/css/main.24baff18.css",
-    "main.js": "/Customaifusion/static/js/main.36c9f431.js",
-    "static/js/453.258b012d.chunk.js": "/Customaifusion/static/js/453.258b012d.chunk.js",
-    "index.html": "/Customaifusion/index.html",
-    "main.24baff18.css.map": "/Customaifusion/static/css/main.24baff18.css.map",
-    "main.36c9f431.js.map": "/Customaifusion/static/js/main.36c9f431.js.map",
-    "453.258b012d.chunk.js.map": "/Customaifusion/static/js/453.258b012d.chunk.js.map"
+    "main.css": "/.github.io/Customaifusion/static/css/main.6f64901f.css",
+    "main.js": "/.github.io/Customaifusion/static/js/main.897751ff.js",
+    "static/js/453.258b012d.chunk.js": "/.github.io/Customaifusion/static/js/453.258b012d.chunk.js",
+    "index.html": "/.github.io/Customaifusion/index.html",
+    "main.6f64901f.css.map": "/.github.io/Customaifusion/static/css/main.6f64901f.css.map",
+    "main.897751ff.js.map": "/.github.io/Customaifusion/static/js/main.897751ff.js.map",
+    "453.258b012d.chunk.js.map": "/.github.io/Customaifusion/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24baff18.css",
-    "static/js/main.36c9f431.js"
+    "static/css/main.6f64901f.css",
+    "static/js/main.897751ff.js"
   ]
 }
